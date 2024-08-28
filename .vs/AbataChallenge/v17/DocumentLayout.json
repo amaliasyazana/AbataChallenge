@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amali\\source\\repos\\AbataChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B9914F-F89E-4B26-A5CD-FFB7AE555EC0}|AbataChallenge.csproj|c:\\users\\amali\\source\\repos\\abatachallenge\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B9914F-F89E-4B26-A5CD-FFB7AE555EC0}|AbataChallenge.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B9914F-F89E-4B26-A5CD-FFB7AE555EC0}|AbataChallenge.csproj|c:\\users\\amali\\source\\repos\\abatachallenge\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B9914F-F89E-4B26-A5CD-FFB7AE555EC0}|AbataChallenge.csproj|solutionrelative:controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B9914F-F89E-4B26-A5CD-FFB7AE555EC0}|AbataChallenge.csproj|c:\\users\\amali\\source\\repos\\abatachallenge\\abatachallenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45B9914F-F89E-4B26-A5CD-FFB7AE555EC0}|AbataChallenge.csproj|solutionrelative:abatachallenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\amali\\source\\repos\\AbataChallenge\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\amali\\source\\repos\\AbataChallenge\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:31:42.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\amali\\source\\repos\\AbataChallenge\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\amali\\source\\repos\\AbataChallenge\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "Controllers\\CartsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:31:08.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbataChallenge.csproj",
+              "DocumentMoniker": "C:\\Users\\amali\\source\\repos\\AbataChallenge\\AbataChallenge.csproj",
+              "RelativeDocumentMoniker": "AbataChallenge.csproj",
+              "ToolTip": "C:\\Users\\amali\\source\\repos\\AbataChallenge\\AbataChallenge.csproj",
+              "RelativeToolTip": "AbataChallenge.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T08:24:41.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

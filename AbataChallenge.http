@@ -1,0 +1,6 @@
+@AbataChallenge_HostAddress = http://localhost:5008
+
+GET {{AbataChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
